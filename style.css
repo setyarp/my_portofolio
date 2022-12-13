@@ -1,0 +1,16 @@
+body{
+  font-family: Helvetica, sans-serif;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: rgb(208, 224, 245);
+}
+
+#projects {
+  background-color:  rgb(208, 224, 245);
+}
+
+section{
+  padding-top: 5rem;
+}
